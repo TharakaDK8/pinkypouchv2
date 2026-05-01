@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://pinkypouch.lk/sitemap.xml
+Sitemap: https://pinkypouch.com/sitemap.xml
 
 # Crawl-delay for politeness
 Crawl-delay: 5
